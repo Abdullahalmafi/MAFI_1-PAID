@@ -1,5 +1,4 @@
 1-0-3-0-6-u-0-_-a-3-0-6
-#-----------------[ MAFI ]-------------------# 
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
 from rich.table import Table as me
